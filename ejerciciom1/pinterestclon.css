@@ -106,11 +106,10 @@ main .card-image button{
     height: 30px;
     width: 60px;
     border-radius: 30px;
-   position:unset, 30px;
+float: right;
 }
 
 button:hover
-{offset-block-start: auto;}
+{offset-block-start: ;}
 
-}
 
